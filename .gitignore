@@ -1,6 +1,7 @@
 
 log/*
 !log/.gitkeep
+!miningpool/lib
 !miningpool/lib/*.py
 
 # Byte-compiled / optimized / DLL files
